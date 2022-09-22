@@ -6,7 +6,7 @@
   <h4>🔨 I work to facilitate processes on your routine! 🔨</h4>
   <h4>📫 Send me a message on Instagram: @lucas.fmp. 📫</h4>
   <h4>😄 Pronouns: He/His. 😄</h4>
-</div></br>
+</div>
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
