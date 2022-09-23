@@ -1,6 +1,10 @@
 <div align="center"><h1>Hi there, I am Lucas Machado. Welcome! 🥰</h1></div>
 
 <div align="center">
+  <img width ="120"alt="profile-views" src="https://komarev.com/ghpvc/?username=lucasfmp19&color=blueviolet">
+</div>
+
+<div align="center">
   <h4>🤖 I’m currently working on mobile devoloping. 🤖</h4>
   <h4>🌱 I’m learning Kotlin! 🌱</h4>
   <h4>🔨 I work to facilitate processes on your routine! 🔨</h4>
