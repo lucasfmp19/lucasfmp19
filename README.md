@@ -6,7 +6,7 @@
 
 <div align="center">
   <h4>🤖 I’m currently working on mobile devoloping. 🤖</h4>
-  <h4>🌱 I’m learning Kotlin! 🌱</h4>
+  <h4>🌱 I’m learning Kotlin and Swift! 🌱</h4>
   <h4>🔨 I work to facilitate processes on your routine! 🔨</h4>
   <h4>📫 Send me a message on Instagram: @lucas.fmp. 📫</h4>
   <h4>😄 Pronouns: He/His. 😄</h4>
