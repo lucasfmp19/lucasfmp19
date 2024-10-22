@@ -31,6 +31,6 @@
   <a href="https://instagram.com/lucas.fmp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-machado-6750571a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/lucasfmp19/lucasfmp19/blob/output/github-contribution-grid-snake.svg)
+  ![Snake gif](https://github.com/lucasfmp19/lucasfmp19/blob/output/github-contribution-grid-snake.gif)
  
 </div> 
