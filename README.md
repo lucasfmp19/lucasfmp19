@@ -8,8 +8,6 @@
   <h4>🤖 I’m currently working on mobile devoloping. 🤖</h4>
   <h4>🌱 I’m learning Kotlin and Swift! 🌱</h4>
   <h4>🔨 I work to facilitate processes on your routine! 🔨</h4>
-  <h4>📫 Send me a message on Instagram: @lucas.fmp. 📫</h4>
-  <h4>😄 Pronouns: He/His. 😄</h4>
 </div>
 
 <div align="center">
@@ -28,9 +26,5 @@
  ##
  
 <div align="center"> 
-  <a href="https://instagram.com/lucas.fmp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-machado-6750571a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake gif](https://github.com/lucasfmp19/lucasfmp19/blob/output/github-contribution-grid-snake.gif)
- 
 </div> 
