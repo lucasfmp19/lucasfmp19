@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-  <h4>🤖 I’m currently working on mobile devoloping. 🤖</h4>
-  <h4>🌱 I’m learning Kotlin and Swift! 🌱</h4>
-  <h4>🔨 I work to facilitate processes on your routine! 🔨</h4>
+  <h4>📱 I’m currently working on mobile devoloping. 📱</h4>
+  <h4>🤖 Learning Kotlin and Swift! 🍎</h4>
+  <h4>🔨 Aiming to create tools to facilitate our lives! 🔨</h4>
 </div>
 
 <div align="center">
