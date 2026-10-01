@@ -3,12 +3,11 @@
   <h3>Software Engineer | B2B Integrations, Automation & DevEx</h3>
   <p>Engineering B2B platform integrations, Python process automations, and AI-driven workflows within global supply chain ecosystems.</p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/lucas-machado-6750571a1/" target="_blank">
+  <p align="center">
+    <a href="https://www.linkedin.com/in/lucasmachadop/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <img src="https://img.shields.io/badge/Location-Brazil-00C853?style=for-the-badge&logoColor=white" />
-    <img src="https://komarev.com/ghpvc/?username=lucasfmp19&color=7c4dff&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Brazil-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" />  
   </p>
 </div>
 
